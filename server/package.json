@@ -16,8 +16,8 @@
     "rest",
     "api"
   ],
-  "author": "chirayu-joshi",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
